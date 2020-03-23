@@ -1,0 +1,6 @@
+Aqui jáz a versão com códigos de plataformas refatorados,
+além de possuir também o backup dos códigos antigos em comentários.
+
+Essa versão também foi adicionada as funções de ligar e desligar efeitos de particulas
+das plataformas.
+  
